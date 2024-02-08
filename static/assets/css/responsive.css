@@ -1,0 +1,1338 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px){
+.about-shape {
+    right: 12px;
+}
+
+.blog-meta-title h2 {
+    font-size: 22px;
+}
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width:1399px){
+    .hero-title h1 {
+        font-size: 48px;
+    }
+
+    .single-service-box {
+        padding: 36px 30px;
+    }
+
+    .techo-section-title.text-left p {
+        width: 90%;
+    }
+
+    .banner-title h1 {
+        font-size: 48px;
+    }
+
+    .banner-text p {
+        width: 100%;
+    }
+
+    .blog-meta-title h2 {
+        font-size: 18px;
+    }
+
+    .about-shape {
+        right: 92px;
+    }
+
+    .cloud-tag li a {
+        padding: 10px 20px;
+    }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+/*Home page one*/
+.hero-title h1 {
+    font-size: 48px;
+}
+
+.hero-text p {
+    width: 100%;
+}
+
+.single-service-box {
+    padding: 36px 30px;
+}
+
+.techo-section-title.text-left p {
+    width: 90%;
+}
+
+.testi-text p {
+    width: 100%;
+}
+
+.blog-meta-title h2 {
+    font-size: 18px;
+}
+
+/*Home page two*/
+
+.banner-title h1 {
+    font-size: 47px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.signal-feature-box {
+    padding: 55px 18px 21px;
+}
+
+.single-testimonial {
+    padding: 15px;
+}
+
+/*techo inner page*/
+.about-section .techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-shape {
+    right: 42px;
+}
+
+.cloud-tag li a {
+    padding: 10px 20px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+/*Home page one*/
+.hero-title h1 {
+    font-size: 34px;
+    line-height: 36px;
+}
+
+.hero-text p {
+    width: 100%;
+}
+
+.single-service-box {
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.techo-section-title.text-left p {
+    width: 100%;
+}
+
+.counter-text span {
+    font-size: 16px;
+}
+
+.techo-section-title h3, .techo-section-title h2 {
+    font-size: 32px;
+}
+
+.call-to-action-desc {
+    width: 50%;
+}
+
+.single-testimonial {
+    padding: 10px;
+}
+
+.techo_menu>ul>li>a {
+    margin: 30px 8px;
+}
+
+.about-thumb {
+    margin-right: 50px;
+}
+
+.about-us-thumb {
+    margin-left: 50px;
+}
+
+.about-section-thumb {
+    margin-right: 50px;
+}
+
+/*Home page two*/
+.banner-title h1 {
+    font-size: 40px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.signal-feature-box {
+    padding: 40px 6px 21px;
+}
+
+.feature-description {
+    margin-top: 20px;
+}
+
+.why-choose-us-thumb {
+    margin-right: 50px;
+}
+
+/*inner page*/
+.service-details .owl-nav {
+    bottom: 180px;
+}
+
+.footer-title h3 {
+    font-size: 18px;
+}
+
+.about-section .techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-section-description p {
+    width: 100%;
+}
+
+.about-shape {
+    bottom: 68px;
+    right: 66px;
+}
+
+.order_now a {
+    font-size: 16px;
+    padding: 12px 30px;
+}
+
+.order_now-two a {
+    font-size: 16px;
+    padding: 12px 30px;
+}
+
+.widget-sidebar-box {
+    padding: 30px 10px 30px;
+}
+
+.rpost-thumb {
+    margin-right: 10px;
+}
+
+.rpost-title h4 a {
+    font-size: 17px;
+}
+
+.sidebar-search-box {
+    margin-bottom: 30px;
+    padding: 35px 10px 35px;
+}
+
+.blog-meta-title h2 {
+    font-size: 17px;
+}
+
+.blog-content {
+    padding: 25px 10px 25px;
+}
+
+.cloud-tag li a {
+    padding: 10px 15px;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.sticky {
+    position: absolute !important;
+ }
+       
+.techo_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.hero-section {
+    height: 1100px;
+}
+
+.hero-title h1 {
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.hero-thumb img {
+    margin-top: 50px;
+}
+
+.single-service-box {
+    padding: 36px 20px;
+    text-align: center;
+}
+
+.techo-section-title.text-left {
+    margin-top: 85px;
+}
+
+.about-content-inner {
+    margin-bottom: 10px;
+}
+
+.about-content-icon {
+    margin-right: 10px;
+    padding-left: 0;
+}
+
+.counter-single-box {
+    margin-top: 30px;
+}
+
+.about-single-box {
+    width: 50%;
+}
+
+.about-us-area {
+    padding: 50px 0 100px;
+}
+
+.call-to-action.style-one .call-to-action-title h2 {
+    width: 85%;
+}
+
+.call-to-action-desc {
+    width: 80%;
+}
+
+.single-testimonial {
+    padding: 10px;
+}
+
+.testi-text p {
+    width: 100%;
+}
+
+.blog-content {
+    padding: 25px 10px 20px;
+}
+
+.blog-meta-title h2 {
+    font-size: 20px;
+}
+
+.footer-widget-address {
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.footer-widget-service {
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.footer-widget-service ul li {
+    padding-bottom: 10px;
+}
+
+.widget-desc {
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.footer-area {
+    padding: 50px 0 5px 0;
+}
+
+.footer-discription p {
+    margin: 23px 0 20px;
+    padding-top: 10px;
+}
+
+/*Home page two*/
+.techo_nav_manu-two {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+ }
+       
+.techo_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.banner-section {
+    height: 900px;
+}
+
+.banner-title h1 {
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 10px;
+}
+
+.banner-thumb img {
+    margin-top: 40px;
+}
+
+.signal-feature-box {
+    padding: 30px 20px 21px;
+}
+
+.feature-description {
+    margin-top: 10px;
+}
+
+.techo-section-title h3, .techo-section-title h2 {
+    font-size: 35px;
+}
+
+.techo-section-title.text-left p {
+    width: 100%;
+}
+
+.counter-number h2 {
+    font-size: 30px;
+}
+
+.counter-area {
+    padding: 80px 0;
+}
+
+/*inner page*/
+.single-service-details {
+    margin-bottom: 30px;
+}
+
+.service-details .owl-nav {
+    bottom: 140px;
+}
+
+.service-number span {
+    font-size: 60px;
+    padding-bottom: 5px;
+}
+
+.about-section {
+    padding: 50px 0 100px;
+}
+
+.about-inner-thumb {
+    margin-top: 30px;
+}
+
+.single_pricing {
+    padding: 20px 10px 20px;
+    margin-bottom: 30px;
+}
+
+.single_pricing-two {
+    padding: 20px 10px 20px;
+}
+
+.pricing-area {
+    padding: 50px 0  90px;
+}
+
+.contact-area {
+    padding: 50px 0 40px;
+}
+
+.sidebar-content-box {
+    margin-top: 30px;
+}
+
+.portfolio-related-thumb {
+    margin-top: 30px;
+}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+.sticky {
+    position: absolute !important;
+ }
+       
+.techo_nav_manu {
+display: none;
+}
+
+ul.nav_scroll li a i {
+display: none;
+}
+
+/*Home page one
+===================*/
+.hero-section {
+    height: 1000px;
+}
+
+.hero-title h1 {
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.hero-text p {
+    width: 100%;
+}
+
+.hero-thumb {
+    margin-top: 30px;
+}
+
+.single-service-box {
+    text-align: center;
+}
+
+.techo-section-title.text-left {
+    margin-top: 70px;
+}
+
+.about-content-icon {
+    margin-right: 10px;
+    padding-left: 0;
+}
+
+.counter-single-box {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.counter-area {
+    padding: 50px 0;
+}
+
+.techo-section-title h3, .techo-section-title h2 {
+    font-size: 36px;
+}
+
+.about-us-area {
+    padding: 50px 0 100px;
+}
+
+.about-single-box {
+    width: 60%;
+}
+
+.call-to-action.style-one .call-to-action-title h2 {
+    width: 100%;
+}
+
+.call-to-action-desc {
+    width: 95%;
+}
+
+.footer-area {
+    padding: 50px 0 5px 0;
+}
+
+.footer-widget-service {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.footer-widget-address {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.widget-desc {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.footer-right-content {
+    text-align: left;
+}
+
+/*Home page two
+===================*/
+.sticky {
+    position: absolute !important;
+ }
+       
+.techo_nav_manu-two {
+display: none;
+}
+
+ul.nav_scroll li a i {
+display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-section {
+    height: 950px;
+}
+
+.banner-title h1 {
+    font-size: 45px;
+    line-height: 47px;
+    margin-bottom: 10px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.banner-thumb {
+    margin-top: 30px;
+}
+
+.signal-feature-box {
+    padding: 30px 28px 21px;
+}
+
+.feature-description {
+    margin-top: 10px;
+}
+
+.techo-section-title.text-left p {
+    width: 100%;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    padding: 12px 15px;
+    margin: 0 0px;
+}
+
+
+/*inner page
+===================*/
+.single-service-details {
+    padding: 20px 36px 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.service-number span {
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+
+.service-details-icon i {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.about-section .techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-section-description p {
+    width: 100%;
+}
+
+.about-inner-thumb {
+    margin-top: 30px;
+}
+
+.about-shape {
+    bottom: 166px;
+    right: 184px;
+}
+
+.single_pricing {
+    margin-bottom: 30px;
+}
+
+.single_pricing-two {
+    margin-bottom: 30px;
+}
+
+.google-map-area {
+    padding: 50px 0 0px;
+}
+
+.single-sidebar_search_box {
+    margin-top: 30px;
+}
+
+.portfolio-info-title h1 {
+    font-size: 24px;
+}
+
+.portfolio-related-thumb {
+    margin-top: 30px;
+}
+
+.cloud-tag li a {
+    padding: 10px 20px;
+}
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+/*Home page one */
+.sticky {
+position: absolute !important;
+}
+  
+.hero-section {
+    height: 1000px;
+}
+
+.techo_nav_manu {
+    display: none;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.hero-title h1 {
+    font-size: 36px;
+    line-height: 38px;
+    margin-bottom: 10px;
+}
+
+.hero-text p {
+    width: 100%;
+}
+
+.hero-thumb {
+    margin-top: 20px;
+}
+
+.techo-section-title h3, .techo-section-title h2 {
+    font-size: 32px;
+}
+
+.single-service-box {
+    text-align: center;
+}
+
+.techo-section-title.text-left {
+    margin-top: 60px;
+}
+
+.techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-content-icon {
+    margin-right: 10px;
+    padding-left: 0;
+}
+
+.counter-single-box {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.call-to-action.style-one .call-to-action-title h2 {
+    width: 100%;
+}
+
+.call-to-action-desc {
+    width: 100%;
+}
+
+.testi-text p {
+    width: 100%;
+}
+
+.testimonial-area {
+    padding: 65px 0 0px;
+}
+
+.footer-area {
+    padding: 50px 0 5px 0;
+}
+
+.footer-discription p {
+    margin: 10px 0 20px;
+    padding-top: 10px;
+}
+
+.footer-widget-service {
+    padding-top: 0px;
+    margin-top: 10px;
+}
+
+.footer-widget-service ul li {
+    padding-bottom: 10px;
+}
+
+.footer-widget-address {
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+.widget-desc {
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+.footer-right-content {
+    text-align: left;
+}
+
+.row.footer-bottom {
+    margin-top: 40px;
+    padding-top: 20px;
+}
+
+/*Home page two */
+.sticky {
+position: absolute !important;
+}
+    
+.banner-section {
+    height: 1000px;
+}
+
+.techo_nav_manu-two {
+    display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-title h1 {
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.banner-thumb {
+    margin-top: 30px;
+}
+
+.signal-feature-box {
+    padding: 20px 28px 21px;
+}
+
+.feature-description {
+    margin-top: 10px;
+}
+
+/*inner page*/
+.about-us-area {
+    padding: 50px 0 100px;
+}
+
+.feature-area {
+    padding: 100px 0 50px;
+}
+
+.about-us-section {
+    padding: 50px 0 100px;
+}
+
+.services-datails-title h2 {
+    font-size: 38px;
+}
+
+.service-details-sidebar {
+    padding: 35px 36px 35px 20px;
+}
+
+.single-service-details {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.service-number span {
+    font-size: 60px;
+    padding-bottom: 5px;
+}
+
+.service-details-icon i {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.service-details-title h3 {
+    font-size: 21px;
+}
+
+/*inner page about*/
+.about-section .techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-section-description p {
+    width: 100%;
+}
+
+.about-inner-thumb {
+    margin-top: 30px;
+}
+
+.about-shape {
+    bottom: 170px;
+    right: 140px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_menu ul li {
+    margin: 0 0px;
+    margin-bottom: 10px;
+}
+
+.single_pricing {
+    padding: 35px 15px 50px;
+    margin-bottom: 30px;
+}
+
+.single_pricing-two {
+    padding: 35px 15px 50px;
+    margin-bottom: 30px;
+}
+
+.privacy-policy-title h2 {
+    font-size: 22px;
+}
+
+.google-map-area {
+    padding: 50px 0 0px;
+}
+
+.contact-area {
+    padding: 90px 0 40px;
+}
+
+.techo-blog-area {
+    padding: 100px 0 50px;
+}
+
+.blog-details-content {
+    padding: 30px 15px 30px;
+}
+
+.single-sidebar_search_box {
+    margin-top: 30px;
+}
+
+.portfolio-info {
+    padding: 30px 30px;
+}
+
+.portfolio-strategy {
+    margin: 60px 0 30px;
+    padding: 30px 30px;
+}
+
+.portfolio-related-thumb {
+    margin-top: 40px;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.sticky {
+ position: absolute !important;
+ }
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.techo_nav_manu {
+    display: none;
+}
+
+/*Home page one
+===================*/
+.hero-section {
+    height: 800px;
+}
+
+.hero-title h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.hero-text p {
+    width: 100%;
+}
+
+.hero-main-button a {
+    padding: 13px 10px;
+}
+
+.hero-right-button {
+    margin-left: 10px;
+}
+
+.hero-thumb {
+    margin-top: 30px;
+}
+
+.techo-section-title h3, .techo-section-title h2 {
+    font-size: 20px;
+}
+
+.techo-section-title h5 {
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.single-service-box {
+    text-align: center;
+    padding: 36px 10px;
+}
+
+.techo-section-title.text-left {
+    margin-top: 60px;
+}
+
+.techo-section-title.text-left p {
+    width: 100%;
+}
+
+.about-content-icon {
+    margin-right: 10px;
+    padding-left: 0;
+}
+
+.counter-single-box {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.counter-area {
+    padding: 50px 0;
+}
+
+.call-to-action.style-one .call-to-action-title h2 {
+    width: 100%;
+}
+
+.call-to-action-title h2 {
+    font-size: 21px;
+}
+
+.call-to-action-desc {
+    width: 100%;;
+}
+
+.single-testimonial {
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom:20px;
+}
+
+.blog-meta-title h2 {
+    font-size: 18px;
+}
+
+.blog-content {
+    padding: 25px 10px 25px;
+}
+
+.owl-dots {
+    display: none;
+}
+
+.footer-area {
+    padding: 40px 0 5px 0;
+}
+
+.footer-discription p {
+    margin: 10px 0 20px;
+    padding-top: 10px;
+}
+
+.footer-widget-service {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.footer-widget-service ul li {
+    padding-bottom: 8px;
+}
+
+.footer-widget-address {
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+.widget-desc {
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+.row.footer-bottom {
+    margin-top: 40px;
+    padding-top: 20px;
+}
+
+.footer-right-content {
+    text-align: left;
+}
+
+/*Home page two
+===================*/
+.sticky {
+position: absolute !important;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+.techo_nav_manu-two {
+    display: none;
+}
+
+.header-top-area {
+display: none;
+}
+
+.banner-section {
+    height: 800px;
+}
+
+.banner-title h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.banner-thumb {
+    margin-top: 30px;
+}
+
+.feature-area {
+    padding: 50px 0 50px;
+}
+
+.signal-feature-box {
+    padding: 20px 10px 20px;
+    margin-bottom: 30px;
+}
+
+.feature-description {
+    text-align: left;
+    margin-top: 0px;
+}
+
+.case_study_menu ul li {
+    padding: 12px 15px;
+    margin: 0 0px;
+    margin-bottom: 10px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.about-us-section {
+    padding: 50px 0 100px;
+}
+
+.portfolio-area {
+    padding: 100px 0 50px;
+}
+
+.brand-thumb {
+    text-align: center;
+}
+
+/*inner page service
+===================*/
+.services-datails-title h2 {
+    font-size: 25px;
+}
+
+.service-details-sidebar {
+    padding: 30px 15px 30px 15px;
+}
+
+.single-service-details {
+    padding: 33px 20px 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.service-details-icon i {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.service-number span {
+    font-size: 48px;
+    margin-right: 0;
+    padding-bottom: 0px;
+}
+
+.service-details-title h3 {
+    font-size: 18px;
+    margin: 20px 0 10px;
+}
+
+/*inner page about
+===================*/
+.about-section .techo-section-title.text-left p {
+    font-size: 17px;
+    width: 100%;
+}
+
+.about-section-description p {
+    font-size: 17px;
+    width: 100%;
+}
+
+.about-inner-thumb {
+    margin-top: 30px;
+}
+
+.single_pricing {
+    padding: 35px 15px 50px;
+    margin-bottom: 30px;
+}
+
+.order_now {
+    margin-top: 30px;
+}
+
+.single_pricing-two {
+    padding: 35px 15px 50px;
+    margin-bottom: 30px;
+}
+
+.privacy-policy-title h2 {
+    font-size: 22px;
+}
+
+.contact-area {
+    padding: 50px 0 40px;
+}
+
+.google-map-area {
+    padding: 30px 0 0px;
+}
+
+.techo-blog-area {
+    padding: 100px 0 50px;
+}
+
+.blog-details-content {
+    padding: 30px 10px 30px;
+}
+
+.techo-blog-meta-left a, .techo-blog-meta-left span {
+    margin-right: 16px;
+}
+
+.single-blog-content ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.techo-single-icon ul li a {
+    margin: 0 2px 0 0;
+}
+
+.widget-sidebar-box {
+    padding: 20px 15px 20px;
+}
+
+.rpost-title h4 a {
+    font-size: 16px;
+}
+
+.rpost-thumb {
+    margin-right: 10px;
+    overflow: hidden;
+}
+
+.single-sidebar_search_box {
+    margin-top: 30px;
+}
+
+.blog-details-section {
+    padding: 90px 0 50px;
+}
+
+.about-shape {
+    bottom: 16px;
+    right: 8px;
+}
+
+.portfolio-info {
+    padding: 30px 10px;
+}
+
+.portfolio-info-title h1 {
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+
+.portfolio-info-share ul li {
+    margin: 0 0px;
+}
+
+.portfolio-strategy {
+    margin: 30px 0 50px;
+    padding: 20px 10px;
+}
+
+.portfolio-strategy-title h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 28px;
+}
+
+.portfolio-strategy-desc p {
+    text-align: justify;
+}
+
+.portfolio-related-title h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+.portfolio-related-thumb {
+    margin-top: 40px;
+}
+
+.cloud-tag li a {
+    padding: 10px 30px;
+}
+
+.portfolio-info-details span {
+    font-size: 17px;
+}
+
+.portfolio-info-details h6 {
+    font-size: 17px;
+}
+
+}

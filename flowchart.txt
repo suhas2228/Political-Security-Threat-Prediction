@@ -1,0 +1,41 @@
+1. Importing the packages
+2. Exploring the dataset
+Political Comments or Tweets 
+3. Visualization
+4. Data Processing
+Removing the URL and other characters
+Remove Punctuations
+Remove Stops words
+NOrmalization the data	
+Tokenize the words and Lematise
+Vectorizer the text (Lexicon Based Approach)
+5. Feature Extraction
+6. Feature Selection 
+7. Splitting the data to train and test
+8. Building the model
+Naive Bayes
+SVM
+Decision Tree
+Voting CLassifier (AB + RF)
+Stacking Classifier
+
+9. Training the model
+10. Building the model 
+11. Flask Framework with Sqlite for signup and signin
+12. Importing the packages
+13. User gives input 
+14. The given input is preprocessed for prediction
+15. Trained model is used for prediction 
+16. Along with that we Applied LDA model for Topic Modelling
+17. Final outcome is displayed through frontend
+
+Dataset 
+======
+https://www.kaggle.com/datasets/adritpal08/dataset-of-indian-politics-tweets-and-reactions 
+
+Extension
+========
+In the base paper, the author mentioned to use different Machine Learning models with Lexicon Approach using DT, SVM and Naive Bayes got 69% of accuracy, 
+As an extension we applied an ensemble method  combining the predictions of multiple individual models to produce a more robust and accurate final prediction.
+However, we can further enhance the performance by exploring other ensemble techniques such as Voting Classifier and Stacking Classifier may get 90%  of accuracy or above, 
+With the above As an extension we can build the front end using flask framework for user testing with authentication.
